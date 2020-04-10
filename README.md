@@ -13,12 +13,12 @@
 ### Результаты 
 
 #### Task1
-![alt](screenshots/task1.png)
+![alt text](screenshots/task1.PNG "Результат выполнения task1")
 #### Task2
-![alt text](screenshots/task2.png)
+![alt text](screenshots/task2.PNG)
 #### Task3
-![alt text](screenshots/task3.png)
+![alt text](screenshots/task3.PNG)
 #### Task4
-![alt text](screenshots/task4.png)
+![alt text](screenshots/task4.PNG)
 #### Task5
-![alt text](screenshots/task5.png)
+![alt text](screenshots/task5.PNG)
