@@ -8,3 +8,17 @@
 *Код можно запускать используя среду NodeJS, или в консоли браузера*;
 *[Учебник по JS](https://learn.javascript.ru/)*;
 *[MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript)*;
+
+
+### Результаты 
+
+#### Task1
+![alt](screenshots/task1.png)
+#### Task2
+![alt text](screenshots/task2.png)
+#### Task3
+![alt text](screenshots/task3.png)
+#### Task4
+![alt text](screenshots/task4.png)
+#### Task5
+![alt text](screenshots/task5.png)
